@@ -12,5 +12,8 @@ git rm -r directoryName
 删除文件后同步到服务器
 git push origin master
 提交
-git commit -m 'change log'
+git commit -am 'change log'
+
+
+
 
