@@ -1,9 +1,6 @@
 # LambdaExample
 study jdk8 lambda example
 
-# LambdaExample
-study jdk8 lambda example
-
 
 git study
 
